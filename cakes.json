@@ -1,0 +1,22 @@
+{
+  "cakes" :[
+    {
+      "id":1,
+      "nama":"Crumble Chocolate Cake",
+      "harga":299000,
+      "img":"imgurl"
+    },
+    {
+      "id":2,
+      "nama":"Mix Cake",
+      "harga":199000,
+      "img":"imgurl"
+    },
+    {
+      "id":3,
+      "nama":"Fruit Pancake",
+      "harga":299000,
+      "img":"imgurl"
+    }
+  ]
+}
