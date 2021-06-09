@@ -1,7 +1,7 @@
 - npm install
 
 - npm install -g json-server
-- json-server --watch fruits.json --port 4000
+- json-server --watch cakes.json --port 4000
 
 
 new terminal
